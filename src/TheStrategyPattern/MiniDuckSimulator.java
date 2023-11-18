@@ -12,5 +12,6 @@ public class MiniDuckSimulator {
         model.performFly();
 
         System.out.println("test nickname change");
+        System.out.println("another test nickname change");
     }
 }
