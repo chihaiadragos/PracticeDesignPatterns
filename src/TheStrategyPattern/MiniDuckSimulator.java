@@ -13,5 +13,6 @@ public class MiniDuckSimulator {
 
         System.out.println("test nickname change");
         System.out.println("another test nickname change");
+        System.out.println("last test (i hope) nickname change");
     }
 }
