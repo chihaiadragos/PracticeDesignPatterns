@@ -10,5 +10,7 @@ public class MiniDuckSimulator {
         model.performFly();
         model.setFlyBehavior(new FlyRocketPowered());
         model.performFly();
+
+        System.out.println("test nickname change");
     }
 }
